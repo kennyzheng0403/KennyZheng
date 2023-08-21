@@ -1,2 +1,2 @@
-# KennyZheng
+# Kenny Website
 Personal Website
