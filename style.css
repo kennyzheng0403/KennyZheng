@@ -27,7 +27,7 @@ html{
 }
 
 body{
-    background: var(--main-color);
+    background: var(--bg-color);
     color: var(--text-color);
 }
 
@@ -255,7 +255,7 @@ span {
     justify-content: center;
     align-items: center;
     gap: 2rem;
-    background: var(--bg-color);
+    background: var(--second-bg-color);
 }
 
 .about-img img {
@@ -289,7 +289,7 @@ span {
 }
 
 .portfolio {
-    background: var(--second-bg-color);
+    background: var(--bg-color);
 }
 
 .portfolio-container {
