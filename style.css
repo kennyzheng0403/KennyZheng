@@ -461,9 +461,6 @@ span {
     }
 }
 @media (max-width: 768px) {
-    #menu-icon {
-        display: block;
-    }
     .nav {
         position: absolute;
         top: 100%;
@@ -481,6 +478,7 @@ span {
         font-size: 2rem;
         margin: 0 2rem 0 2rem;
         position:right;
+        align-items: right;
     }
     .portfolio h2 {
         margin-bottom: 3rem;
