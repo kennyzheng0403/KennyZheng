@@ -495,4 +495,7 @@ span {
     .portfolio-container{
         grid-template-columns: 1fr;
     }
+    .nav a {
+        align-items: right;
+    }
 }
