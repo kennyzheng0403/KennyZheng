@@ -465,7 +465,7 @@ span {
         display: block;
     }
     .nav {
-        position: absolute;
+        position: left;
         top: 100%;
         right: 0;
         width: 100%;
