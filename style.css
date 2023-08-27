@@ -461,7 +461,6 @@ span {
     }
     .portfolio {
         padding-bottom: 7rem;
-        grid-template-columns: 2,1fr;
     }
 }
 @media (max-width: 768px) {
@@ -489,11 +488,11 @@ span {
         margin-bottom: 3rem;
     }
     .portfolio-container {
+        grid-template-columns:repeat(2,1fr);
+    }
+}
+@media (max-width: 617px) {
+    .portfolio {
         grid-template-columns:1fr;
     }
 }
-/* @media (max-width: 617px) {
-    .portfolio {
-        grid-template-columns: 1fr;
-    }
-} */
