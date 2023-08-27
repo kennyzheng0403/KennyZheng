@@ -485,6 +485,6 @@ span {
         margin-bottom: 3rem;
     }
     .portfolio-container {
-        grid-template:repeat(2,1fr);
+        grid-template-columns:repeat(2,1fr);
     }
 }
