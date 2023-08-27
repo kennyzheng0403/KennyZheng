@@ -479,7 +479,7 @@ span {
     .nav a{
         display: inline-block;
         font-size: 2rem;
-        margin: 3rem 4rem 0 4rem;
+        margin: 0 2rem 0 2rem;
         position:right;
     }
     .portfolio h2 {
