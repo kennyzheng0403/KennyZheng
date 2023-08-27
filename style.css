@@ -492,7 +492,7 @@ span {
     }
 }
 @media (max-width: 617px) {
-    .portfolio {
-        grid-template-columns:1fr;
+    .portfolio-container{
+        grid-template-columns: 1fr;
     }
 }
