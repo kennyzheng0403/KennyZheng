@@ -459,6 +459,9 @@ span {
     .footer {
         padding: 2rem 3%;
     }
+    .portfolio {
+        padding-bottom: 7rem;
+    }
 }
 @media (max-width: 768px) {
     .nav {
@@ -486,5 +489,10 @@ span {
     }
     .portfolio-container {
         grid-template-columns:repeat(2,1fr);
+    }
+}
+@media (max-width: 617px) {
+    .portfolio {
+        grid-template-columns: 1fr;
     }
 }
